@@ -30,14 +30,21 @@ Here Z11& Z22 are the input & output driving point impedances while Z12& Z21 are
 
 **CIRCUIT DIAGRAM:**
 
-
+<img width="351" height="535" alt="image" src="https://github.com/user-attachments/assets/e75fbbcb-5224-4cd5-8c68-8b1822fef2e2" />
 
 **TABULATION:**
 
+<img width="310" height="345" alt="image" src="https://github.com/user-attachments/assets/86949807-dd8c-4f91-ac0c-d585579573cc" />
 
+**CALCULATION**
 
+<img width="313" height="260" alt="image" src="https://github.com/user-attachments/assets/5addd87e-606d-49f4-a3d3-5dd0503c7110" />
+<img width="328" height="557" alt="image" src="https://github.com/user-attachments/assets/95f6bbb3-173c-4262-ad63-19ad2e36f475" />
 
+**GRAPH**
 
+<img width="1048" height="457" alt="image" src="https://github.com/user-attachments/assets/e583e7b1-e423-4f27-a63a-a2e56af3bc5d" />
+<img width="1040" height="458" alt="image" src="https://github.com/user-attachments/assets/eb11ec80-42c1-4f94-9276-5d429a66b1e9" />
 
 **PROCEDURE:**
 
@@ -49,6 +56,7 @@ e)	Switch ‘OFF’ the supply after taking thereadings.
 
 **Mark split up:**
 
+<img width="517" height="378" alt="image" src="https://github.com/user-attachments/assets/066e87c2-d0fb-437f-954a-317b8f0b40de" />
 
 **RESULT:**
 
